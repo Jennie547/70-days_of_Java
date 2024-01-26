@@ -1,10 +1,8 @@
-package 70-days_of_Java;
+package package_num_one;
 
 public class Odd-even {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//System.out.println("Hello, World!");
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter number: ");
 		int var1 = sc.nextInt();

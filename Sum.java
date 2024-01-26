@@ -1,4 +1,4 @@
-package 70-days_of_Java;
+package package_num_one;
 import java.util.Scanner;
 
 public class Sum {
